@@ -1,6 +1,4 @@
 # AI_WS02_TourPlaning
-Tour Plaining AI 
-# AI_WS02_TourPlaning
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
